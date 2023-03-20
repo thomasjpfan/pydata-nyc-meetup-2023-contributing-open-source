@@ -1,0 +1,287 @@
+---
+title: Paths for Contributing to PyData Open Source Projects
+author: Thomas J. Fan
+description: Paths for Contributing to PyData Open Source Projects
+format:
+  revealjs:
+    theme: [default, partials/custom_theme.scss]
+    include-in-header: partials/heading-meta.html
+    template-partials:
+      - partials/title-slide.html  # this is empty so that the header slide is defined below
+    show-slide-number: print
+    html-math-method: plain  # change to katex if there is math
+    width: 1600
+    height: 900
+    menu: false
+    chalkboard: false
+    multiplex: false
+    center: true
+    highlight-style: arrow
+    auto-stretch: false
+---
+
+## Paths for Contributing to PyData Open Source Projects {.header-slide}
+<hr></hr>
+
+::::: {.columns}
+:::: {.column width="70%"}
+::: {.author}
+Thomas J. Fan
+:::
+
+[](https://www.github.com/thomasjpfan){.fa-brands .fa-github}
+[](https://www.twitter.com/thomasjpfan){.fa-brands .fa-twitter}
+[](https://www.linkedin.com/in/thomasjpfan/){.fa-brands .fa-linkedin}
+[@thomasjpfan](https://www.github.com/thomasjpfan){.social-media}
+
+Staff Software Engineer
+
+![](images/quansightlabs.jpg){width=300}
+
+::::
+:::: {.column width="30%"}
+![](images/pydata-logo-final.png){width=500}
+::::
+:::::
+
+[github.com/thomasjpfan/pydata-nyc-meetup-2023-contributing-open-source](https://www.github.com/thomasjpfan/pydata-nyc-meetup-2023-contributing-open-source){.talk-link}
+
+
+## My OSS Experience
+### Maintainer
+
+::: {.tcenter}
+![](images/maintainer.png){fig-align="center"}
+:::
+
+## My OSS Experience
+### Maintainer
+
+::: {.tcenter}
+![](images/maintainer.png){fig-align="center"}
+:::
+
+### Contributor
+
+![](images/contributor.png){width="100%"}
+
+---
+
+![](images/journey.svg){width="100%"}
+
+## Overview 📖
+
+### 1. Why contribute? 🤔
+### 2. How to contribute? 🌱
+### 3. What to expect when contributing? 🔮
+
+# Why contribute? 🤔
+
+## Curiosity 💡{.tcenter}
+
+![](images/curisoity.jpg){fig-align="center"}
+
+## Technical Skills ⌨️{.tcenter}
+
+![](images/technical.jpg){fig-align="center" width=1000}
+
+## People Skills 👥{.tcenter}
+
+![](images/teamwork.jpg){fig-align="center" width=1000}
+
+## Community 🪩{.tcenter}
+
+![](images/community.jpg){fig-align="center" width=800}
+
+## Impact 🌎{.tcenter}
+
+![](images/ripple.jpg){fig-align="center" width=600}
+
+## Reputation 🎖️{.tcenter}
+
+![](images/reputation.jpg){fig-align="center" width=1200}
+
+## Current Employment 💵{.tcenter}
+
+![](images/office.jpg){fig-align="center" width=530}
+
+## Why contribute? 🤔
+
+- Curiosity 💡
+- Technical Skills ⌨️
+- People Skills 🗣️
+- Community 🪩
+- Impact 🌎
+- Reputation 🎖️
+- Current Employment 💵
+
+# How to contribute? 🌱
+
+## Organizing 📢{.tcenter}
+
+![](images/pydata.jpg){fig-align="center" width=1000}
+
+## Design 🎨{.tcenter}
+
+![](images/numpy_design.gif){fig-align="center" width=1000}
+
+## Writing 📝{.tcenter}
+
+![](images/pandas_reshape.jpg){fig-align="center" width=1000}
+
+## Coding 💻{.tcenter}
+
+![](images/scipy-dev-guide.jpg){fig-align="center" width=1400}
+
+## Reviewing 🔬{.tcenter}
+
+![](images/pull_request1.jpg){fig-align="center" width=1000}
+
+## Reviewing 🔬{.tcenter}
+
+![](images/pull_request2.jpg){fig-align="center" width=1200}
+
+## Answering 🗣️{.tcenter}
+
+![](images/sklearn_discussion.jpg)
+
+## Answering 🗣️{.tcenter}
+
+![](images/pytorch_discussion.jpg){fig-align="center" width=1300}
+
+# Finding a project to contribute to 👀
+## Projects you already use 🛠️{.tcenter}
+
+![](images/numfocus.png){fig-align="center" width=800}
+
+## Is active? 🌳
+
+![](images/matplotlib_insights.jpg){fig-align="center" width=1400}
+
+## What is the community like? 🪴
+
+![](images/astroy_most_commented.jpg){fig-align="center" width=1400}
+
+# Getting Familiar with a Project 🏙 ️
+
+## Code of Conduct ⚖️
+
+![](images/dask_code_of_conduct.jpg){fig-align="center" width=1400}
+
+## Contributing Guide 🦮
+
+![](images/numpy_development.jpg){fig-align="center" width=1200}
+
+## Tools for organizing discussions ⚙️
+
+![](images/tools.jpg){fig-align="center" width=800}
+
+## Issues and Pull Requests
+
+![](images/ibis.jpg){fig-align="center" width=1400}
+
+## Mailing lists
+
+![](images/numpy_mailing.jpg){fig-align="center" width=1600}
+
+## Discussion Forums
+
+:::: {.columns}
+::: {.column width="50%"}
+![](images/sklearn_discussion.jpg)
+:::
+::: {.column width="50%"}
+![](images/pytorch_discussion.jpg){fig-align="center" width=1300}
+:::
+::::
+
+## Synchronous (Discord)
+
+![](images/scikit-learn_discord.jpg){fig-align="center" width=1600}
+
+## Synchronous (Gitter)
+
+![](images/matplotlib_gitter.jpg){fig-align="center" width=1600}
+
+## Synchronous (Slack)
+
+![](images/pytorch_slack.jpg){fig-align="center" width=1300}
+
+## Synchronous (Public Meetings)
+#### [https://scientific-python.org/calendars/](https://scientific-python.org/calendars/)
+
+![](images/community_calendars.jpg){fig-align="center" width=700}
+
+# Communicate effectively 🎙️
+## Gather and Give Context 📖
+
+![](images/library.jpg){fig-align="center" width=1200}
+
+## Concise 🧬
+
+![](images/bonsai.jpg){fig-align="center" width=1200}
+
+## Public 🎤
+
+![](images/theater.jpg){fig-align="center" width=1200}
+
+## Okay to ask questions ☎️
+
+![](images/bulb.jpg){fig-align="center" width=1200}
+
+# What to expect when contributing? 🔮
+## Response time varies between projects ⏲️
+
+![](images/review_no_bandwidth.jpg){fig-align="center" width=1600}
+
+## Response time varies between projects ⏲️
+
+![](images/revolving_maintainers.jpg){fig-align="center" width=900}
+
+## Request changes 🚧
+
+![](images/suggestion.jpg)
+
+## Long disucssions 🦖
+
+![](images/long_discussion.jpg){fig-align="center" width=1300}
+
+## Does not get accepted ❌
+
+![](images/not_accepted.jpg)
+
+## Gets accepted ✅
+
+![](images/accepted.jpg){fig-align="center" width=1300}
+
+## Paths for Contributing to PyData Open Source Projects {.header-slide}
+<hr></hr>
+
+::::: {.columns}
+:::: {.column width="60%"}
+
+1. Why contribute? 🤔
+2. How to contribute? 🖥️
+3. What to expect when contributing? 🔮
+
+::::
+
+:::: {.column width="40%" .tcenter}
+
+::: {.author}
+Thomas J. Fan
+:::
+
+[](https://www.github.com/thomasjpfan){.fa-brands .fa-github}
+[](https://www.twitter.com/thomasjpfan){.fa-brands .fa-twitter}
+[](https://www.linkedin.com/in/thomasjpfan/){.fa-brands .fa-linkedin}
+[@thomasjpfan](https://www.github.com/thomasjpfan){.social-media}
+
+Staff Software Engineer
+
+![](images/quansightlabs.jpg){width=300}
+
+::::
+:::::
+
+[github.com/thomasjpfan/pydata-nyc-meetup-2023-contributing-open-source](https://www.github.com/thomasjpfan/pydata-nyc-meetup-2023-contributing-open-source){.talk-link}
