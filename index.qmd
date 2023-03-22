@@ -83,11 +83,11 @@ Staff Software Engineer
 
 ## Technical Skills ⌨️{.tcenter}
 
-![](images/technical.jpg){fig-align="center" width=1000}
+![](images/technical.jpg){fig-align="center" width=1100}
 
 ## People Skills 👥{.tcenter}
 
-![](images/teamwork.jpg){fig-align="center" width=1000}
+![](images/teamwork.jpg){fig-align="center" width=1300}
 
 ## Community 🪩{.tcenter}
 
@@ -103,7 +103,7 @@ Staff Software Engineer
 
 ## Current Employment 💵{.tcenter}
 
-![](images/office.jpg){fig-align="center" width=530}
+![](images/office.jpg){fig-align="center" width=540}
 
 ## Why contribute? 🤔
 
@@ -119,15 +119,15 @@ Staff Software Engineer
 
 ## Organizing 📢{.tcenter}
 
-![](images/pydata.jpg){fig-align="center" width=1000}
+![](images/pydata.jpg){fig-align="center" width=1050}
 
 ## Design 🎨{.tcenter}
 
-![](images/numpy_design.gif){fig-align="center" width=1000}
+![](images/numpy_design.gif){fig-align="center" width=1050}
 
 ## Writing 📝{.tcenter}
 
-![](images/pandas_reshape.jpg){fig-align="center" width=1000}
+![](images/pandas_reshape.jpg){fig-align="center" width=1200}
 
 ## Coding 💻{.tcenter}
 
@@ -135,7 +135,7 @@ Staff Software Engineer
 
 ## Reviewing 🔬{.tcenter}
 
-![](images/pull_request1.jpg){fig-align="center" width=1000}
+![](images/pull_request1.jpg){fig-align="center" width=1100}
 
 ## Reviewing 🔬{.tcenter}
 
@@ -147,12 +147,12 @@ Staff Software Engineer
 
 ## Answering 🗣️{.tcenter}
 
-![](images/pytorch_discussion.jpg){fig-align="center" width=1300}
+![](images/pytorch_discussion.jpg){fig-align="center" width=1400}
 
 # Finding a project to contribute to 👀
 ## Projects you already use 🛠️{.tcenter}
 
-![](images/numfocus.png){fig-align="center" width=800}
+![](images/numfocus.png){fig-align="center" width=900}
 
 ## Is active? 🌳
 
