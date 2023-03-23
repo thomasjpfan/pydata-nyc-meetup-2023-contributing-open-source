@@ -141,6 +141,10 @@ Staff Software Engineer
 
 ![](images/pull_request2.jpg){fig-align="center" width=1200}
 
+## Opening A Bug Report 🐛{.tcenter}
+
+![](images/bug-report.jpg){fig-align="center" width=1200}
+
 ## Answering 🗣️{.tcenter}
 
 ![](images/sklearn_discussion.jpg)
